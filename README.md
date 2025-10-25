@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Prediction System
+# ✈️ Flight Delay Predictor
 
 A machine learning system that predicts flight delays with 78%+ accuracy, providing actionable insights for airlines to optimize operations and improve customer experience.
 
